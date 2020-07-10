@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MemoTest" verbose="1" parallel="tests" thread-count="3">
+    <parameter name="file" value="test.properties"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://www.reklama.lv/ru"/>
+ 
+    <test name="MemoTest">
+        <classes>
+            <class name="ru.reklama.autotests.MemoTest">
+                 <methods>
+                     <!--<include name="addFewAdvertismentFromCardToMemo"/>-->
+                 </methods>
+            </class>
+        </classes>
+    </test>
+    
+</suite>

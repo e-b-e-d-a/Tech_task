@@ -1,0 +1,15 @@
+/.idea/
+/target/
+/log/
+/allure-results/
+pow.xml
+target/
+testng.xml
+aspectjweaver-1.9.1.jar
+autotests.iml
+desktop.ini
+*.pdf
+build/
+.idea/compiler.xml
+.~lock.TestSet.csv#
+.idea/compiler.xml

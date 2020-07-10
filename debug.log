@@ -1,0 +1,2 @@
+[0710/115002.211:ERROR:file_io_win.cc(161)] CreateFile C:\Users\admin\AppData\Local\Temp\scoped_dir29256_1105918240\Crashpad\settings.dat: Не удается найти указанный файл. (0x2)
+[0710/115002.212:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
